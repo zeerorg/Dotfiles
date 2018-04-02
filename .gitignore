@@ -1,0 +1,14 @@
+/*
+!.gitignore
+!.gitconfig
+!.bashrc
+!.vimrc
+!.vim/
+
+!.tmux.conf
+!.tmux/
+.tmux/plugins
+
+!cronjob.sh
+
+!.functions
